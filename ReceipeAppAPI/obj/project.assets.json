@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bejesh\\.nuget\\packages\\": {},
+    "C:\\Users\\bejesh.sriram\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bejesh\\Desktop\\Recipe-App\\ReceipeAppAPI\\ReceipeAppAPI.csproj",
+      "projectUniqueName": "D:\\New folder\\ReceipeAppAPI\\ReceipeAppAPI.csproj",
       "projectName": "ReceipeAppAPI",
-      "projectPath": "C:\\Users\\Bejesh\\Desktop\\Recipe-App\\ReceipeAppAPI\\ReceipeAppAPI.csproj",
-      "packagesPath": "C:\\Users\\Bejesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bejesh\\Desktop\\Recipe-App\\ReceipeAppAPI\\obj\\",
+      "projectPath": "D:\\New folder\\ReceipeAppAPI\\ReceipeAppAPI.csproj",
+      "packagesPath": "C:\\Users\\bejesh.sriram\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\ReceipeAppAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bejesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bejesh.sriram\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "ReceipeAppAPI.Controllers.ReceipeController",
+    "Method": "Get",
+    "RelativePath": "api/Receipe/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ReceipeAppAPI.Models.Repository",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

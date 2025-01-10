@@ -32,3 +32,38 @@ C:\Users\Bejesh\Desktop\Recipe-App\ReceipeAppAPI\obj\Debug\net8.0\refint\Receipe
 C:\Users\Bejesh\Desktop\Recipe-App\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.pdb
 C:\Users\Bejesh\Desktop\Recipe-App\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.genruntimeconfig.cache
 C:\Users\Bejesh\Desktop\Recipe-App\ReceipeAppAPI\obj\Debug\net8.0\ref\ReceipeAppAPI.dll
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\appsettings.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.staticwebassets.runtime.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.staticwebassets.endpoints.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.exe
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.deps.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.runtimeconfig.json
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.dll
+D:\New folder\ReceipeAppAPI\bin\Debug\net8.0\ReceipeAppAPI.pdb
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.AssemblyInfoInputs.cache
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.AssemblyInfo.cs
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.csproj.CoreCompileInputs.cache
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.RazorAssemblyInfo.cache
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.RazorAssemblyInfo.cs
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.sourcelink.json
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\scopedcss\bundle\ReceipeAppAPI.styles.css
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\scopedcss\projectbundle\ReceipeAppAPI.bundle.scp.css
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.ReceipeAppAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.ReceipeAppAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ReceipeAppAPI.props
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReceipeAppAPI.props
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReceipeAppAPI.props
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.dll
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\refint\ReceipeAppAPI.dll
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.pdb
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ReceipeAppAPI.genruntimeconfig.cache
+D:\New folder\ReceipeAppAPI\obj\Debug\net8.0\ref\ReceipeAppAPI.dll
